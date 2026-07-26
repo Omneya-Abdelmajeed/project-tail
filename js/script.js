@@ -7,63 +7,63 @@ const products = [
     name: "Leather Watch",
     price: 400,
     category: "Watches",
-    image: "../images/golden-watch.avif"
+    image: "images/golden-watch.avif"
   },
   {
     id: 2,
     name: "Golden necklace",
     price: 150,
     category: "Necklace",
-    image: "../images/golden-neck.avif"
+    image: "images/golden-neck.avif"
   },
   {
     id: 3,
     name: "Golden Earrings",
     price: 200,
     category: "Earrings",
-    image: "../images/golden-ear.avif"
+    image: "images/golden-ear.avif"
   },
   {
     id: 4,
     name: "Brown Watch",
     price: 350,
     category: "Watches",
-    image: "../images/brown-watch.avif"
+    image: "images/brown-watch.avif"
   },
   {
     id: 5,
     name: "Silver Set Rings",
     price: 580,
     category: "Rings",
-    image: "../images/silver-ring.avif"
+    image: "images/silver-ring.avif"
   },
   {
     id: 6,
     name: "Golden bracelet",
     price: 100,
     category: "Bracelet",
-    image: "../images/golden-brace.avif"
+    image: "images/golden-brace.avif"
   },
   {
     id: 7,
     name: "Set Necklace",
     price: 500,
     category: "Necklace",
-    image: "../images/set.avif"
+    image: "images/set.avif"
   },
   {
     id: 8,
     name: "Silver Earrings",
     price: 300,
     category: "Earrings",
-    image: "../images/silver-ear.avif"
+    image: "images/silver-ear.avif"
   },
   {
     id: 9,
     name: "Golden set necklace",
     price: 300,
     category: "Necklace",
-    image: "../images/golden-neck.avif"
+    image: "images/golden-neck.avif"
   }
 ];
 
